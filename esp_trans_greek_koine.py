@@ -9,6 +9,12 @@ word = 'reir'
 word = 'oir'
 word = 'bautismo'
 word = 'fluctuar'
+word = 'tis'
+word = 'adefos'
+word = 'antropos'
+word = 'japis'
+word = 'eleos'
+word = 'kosmos'
 
 print("----------------------------------------------")
 print("*        TRASLITERACIÓN ESPAÑOL GRIEGO       *")
